@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SVGTask</string>
+    <string name="title_line_list">Line</string>
+    <string name="title_line_detail">Line Detail</string>
+</resources>
